@@ -3,8 +3,12 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="pub"
-                 name="publication"
-                 start-page="starter-topic.md">
+                 name="Publication"
+                 start-page="publications_starter.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="publications_starter.md">
+        <toc-element topic="Overview.md"/>
+        <toc-element topic="Tutorial.md"/>
+        <toc-element topic="Reference.md"/>
+    </toc-element>
 </instance-profile>
