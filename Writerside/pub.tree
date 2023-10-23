@@ -7,8 +7,5 @@
                  start-page="publications_starter.md">
 
     <toc-element topic="publications_starter.md">
-        <toc-element topic="Overview.md"/>
-        <toc-element topic="Tutorial.md"/>
-        <toc-element topic="Reference.md"/>
     </toc-element>
 </instance-profile>
